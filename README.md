@@ -33,7 +33,7 @@ https://222011436.student.stis.ac.id/
 
 
 
-## Developer
+### Developer
 ```
 3SI3 222011330 Arnoldy Fatwa Rahmadin
 3SI3 222011792 Erni Kurnia Putri
@@ -45,7 +45,7 @@ https://222011436.student.stis.ac.id/
 3SI3 222011560 Widia Astuti
 ```
 
-## Klien
+### Klien
 ```
 Direktorat Sistem Informasi Statistik
 ```
