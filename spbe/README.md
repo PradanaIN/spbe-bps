@@ -1,11 +1,12 @@
 # Sistem Informasi Manajemen Perubahan TI Badan Pusat Statistik
 
-### Framework 
+### Teknologi
 
 * Laravel 9
-* Bootstrap
+* Bootstrap 5
+* MySQL
 
-### Installing
+### Installasi Aplikasi
 
 * git clone
 ```
